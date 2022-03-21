@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**rivopelu/RivoPelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1> Hi there 👋, My name is Rivo Pelu </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  I'm a full stack developer & UI - UX designer
+![I'm a full stack developer & UI - UX designer](https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)
+
+My full name is Praysingzky Richardo RIvo Pelu, I come from the city of Manado, North Sulawesi, Indonesia,
+
+Skills: HTML / CSS / JS / ReactJs / PHP / Laravel 
+
+
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rivopelu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rivopelu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/prysngrchrd_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/rivopelu)  
+
+
+
+
+
+![Rivo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivopelu&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivopelu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
