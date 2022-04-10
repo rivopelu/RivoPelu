@@ -2,7 +2,7 @@
 
 <h1> Hi there 👋, My name is Rivo Pelu </h1>
 
-###  I'm a full stack developer & UI - UX designer
+###  I'm a full FrontEnd developer
 ![I'm a full stack developer & UI - UX designer](https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg)
 
 My full name is Praysingzky Richardo RIvo Pelu, I come from the city of Manado, North Sulawesi, Indonesia,
