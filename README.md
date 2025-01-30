@@ -9,6 +9,10 @@
 ## Download Android in firebase App Distribution
 https://appdistribution.firebase.dev/i/d9f6a34ae633eca9
 
+
+
+## like to contribute?
+
 Tanya tanya soal project bisa join discord
 https://community.rivopelu.com/
 
