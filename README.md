@@ -6,6 +6,9 @@
 - **FE Desktop POS repository** : https://github.com/rivopelu/lokapos-desktop-pos
 - **Android APP repository** : https://github.com/rivopelu/lokapos-android
 
+## Download Android in firebase App Distribution
+https://appdistribution.firebase.dev/i/d9f6a34ae633eca9
+
 Tanya tanya soal project bisa join discord
 https://community.rivopelu.com/
 
